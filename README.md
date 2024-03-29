@@ -32,7 +32,7 @@ To compile the PDF on local machines in any operating system, use the following 
 ```
 $ latexmk -pdf paper.tex
 ```
-If you prefer to use [Overleaf](https://www.overleaf.com), upload all files from this repository along with the downloaded ones and compile the PDF using their platform's cloud service.
+If you prefer to use [Overleaf](https://www.overleaf.com), upload all [required files](www.pudim.com.br) and compile the PDF using their platform's cloud service.
 
 Whichever method you choose, if everything works well, the `paper.pdf` file will be available.
 From now on, all you have to do is edit the files to create your own version of the paper by compiling as many times you want.
