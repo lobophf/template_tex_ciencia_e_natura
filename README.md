@@ -20,27 +20,26 @@ This repository contains the `LaTeX` version of essential files needed for the s
 
 ## For authors:
 
-For those who will submit a paper to our journal, please read the [guidelines](https://periodicos.ufsm.br/cienciaenatura/about/submissions) and download the essential files by clicking [here](www.pudim.com.br).
+If you are planning to submit a paper to our journal, please read the [guidelines](https://periodicos.ufsm.br/cienciaenatura/about/submissions) and download the essential files by clicking [here](www.pudim.com.br).
 
 ### Requirements:
 
-If you want to create your paper on your local machine, you must have `TeX Live 2022` or newer installed. However, this requirement does not apply if you want to use the [Overleaf](https://www.overleaf.com/) platform.
+If you want to create your paper on your local machine, you must have `TeX Live 2022` or newer installed. However, this requirement does not apply if you are going to use the [Overleaf](https://www.overleaf.com/) platform.
 
 ### Compiling the PDF:
 
-To compile the PDF on local machines in any operating system, use the following command. This can be done directly in the terminal/command prompt, or by configuring your LaTeX editor for this.
+To compile the PDF on local machines in any operating system, use the following command. This can be done directly in the terminal/command prompt or by configuring your LaTeX editor accordingly.
 ```
 $ latexmk -pdf paper.tex
 ```
-If you prefer to use [Overleaf](https://www.overleaf.com), upload all [required files](www.pudim.com.br) and compile the PDF using their platform's cloud service.
-
-Whichever method you choose, if everything works well, the `paper.pdf` file will be available.
-From now on, all you have to do is edit the files to create your own version of the paper by compiling as many times you want.
+If you prefer to use [Overleaf](https://www.overleaf.com), upload all required files and compile the PDF using their cloud-based service.
+With either method, if everything works correctly, the `paper.pdf` file will be available. From this point, all you have to do is edit the files to create your paper version by compiling it as many times as needed.
 
 ### Submission:
 Before proceeding with submission, please review our [Submission Preparation Checklist](https://periodicos.ufsm.br/cienciaenatura/about/submissions) and provide all required files on our platform, including the generated PDF file.
 
-Also, consider running the following command to remove unnecessary files before uploading to our platform. Keep in mind many of these log or auxiliary files are only useful during the project editing phase.
+Consider running the following command to remove unnecessary files before uploading to our platform, as many of these log or auxiliary files are only useful during the editing phase:
+
 ```
 $ latexmk -c
 ```
