@@ -28,7 +28,7 @@ If you want to create your paper on your local machine, you must have `TeX Live 
 
 ### Compiling the PDF:
 
-To compile the PDF on local machines in any operating system, use the following command. This can be done directly in the terminal/command prompt, or by configuring your LaTex editor for this.
+To compile the PDF on local machines in any operating system, use the following command. This can be done directly in the terminal/command prompt, or by configuring your LaTeX editor for this.
 ```
 $ latexmk -pdf paper.tex
 ```
