@@ -45,7 +45,7 @@ Also, consider running the following command to remove unnecessary files before 
 $ latexmk -c
 ```
 
-## For developers, maintainers or contributors:
+## For developers, maintainers and contributors:
 
 We appreciate any type of contributions! If you want to improve the documentation or fix bugs, do so without any further discussion by opening a pull request on the develop branch. You can also check our contribution page.
 
