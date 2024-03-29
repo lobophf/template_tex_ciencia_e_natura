@@ -10,7 +10,6 @@
     <a href="#about">About</a>&nbsp;&nbsp;|&nbsp;
     <a href="#requirements">Requirements</a>&nbsp;&nbsp;|&nbsp;
     <a href="#quick-start-guide">Quick Start Guide</a>&nbsp;&nbsp;|&nbsp;
-    <a href="#submission">Submission</a>&nbsp;&nbsp;|&nbsp;
     <a href="#license">License</a>	
     <h2 align="center">Ciência e Natura - LaTeX Repository</h2>
     <h4 align="center">Federal University of Santa Maria, Main Campus, Central Publishing Office at UFSM</h4>
@@ -67,9 +66,6 @@ $ latexmk -pdf paper.tex
 If you prefer to use [Overleaf](https://www.overleaf.com), upload all files from this repository along with the downloaded ones and compile the PDF using their platform's cloud service.
 
 Whichever method you choose, if everything works well, the `paper.pdf` file will be available.
-
-## Submission:
-Before proceeding with submission, review our [Submission Preparation Checklist](https://periodicos.ufsm.br/cienciaenatura/about/submissions) and provide all required files on our platform, including the generated PDF file.
 
 ## License:
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/), as found in the [LICENSE](./LICENSE) file.
