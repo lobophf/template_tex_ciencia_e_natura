@@ -16,7 +16,7 @@
 </p>
 
 ## About:
-This repository contains the `LaTeX` version of essential files needed for the submission process to the [Ciência e Natura journal](https://periodicos.ufsm.br/cienciaenatura/).
+This repository contains the `LaTeX` version of essential files needed for the submission process to the [Ciência e Natura Journal](https://periodicos.ufsm.br/cienciaenatura/).
 
 ## For authors:
 
