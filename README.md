@@ -46,9 +46,9 @@ $ latexmk -c
 
 ## For developers, maintainers and contributors:
 
-We appreciate any type of contributions! If you want to improve the documentation or fix bugs, do so without any further discussion by opening a pull request on the develop branch. You can also check our contribution page.
+We appreciate all types of contributions! If you want to improve the documentation or fix bugs, feel free to open a pull request on the develop branch. You can also check our contribution page for more information.
 
-However if you plan to contribute by adding new features or changing the template, please first open an issue and discuss it with us. Sending other types of pull requests without prior discussion may end up in rejection if we decide to take the project in another direction than you might be aware of.
+If you plan to contribute by adding new features or changing the template, please open an issue and discuss it with us first. Sending other types of pull requests without prior discussion may be rejected if we decide to take the project in a different direction than you might be aware of.
 
 ## License:
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/), as found in the [LICENSE](./LICENSE) file.
