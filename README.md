@@ -8,8 +8,8 @@
     <a href="README-pt-br.md">:brazil: Português</a>&nbsp;&nbsp;&nbsp;
     <br> 
     <a href="#about">About</a>&nbsp;&nbsp;|&nbsp;
-    <a href="#requirements">Requirements</a>&nbsp;&nbsp;|&nbsp;
-    <a href="#submission">Submission</a>&nbsp;&nbsp;|&nbsp;
+    <a href="#forauthors">For authors</a>&nbsp;&nbsp;|&nbsp;
+    <a href="#contribution">Contribution</a>&nbsp;&nbsp;|&nbsp;
     <a href="#license">License</a>	
     <h2 align="center">Ciência e Natura - LaTeX Repository</h2>
     <h4 align="center">Federal University of Santa Maria, Main Campus, Central Publishing Office at UFSM</h4>
@@ -18,8 +18,7 @@
 ## About:
 This repository contains the `LaTeX` version of essential files needed for the submission process to the [Ciência e Natura Journal](https://periodicos.ufsm.br/cienciaenatura/).
 
-## For authors:
-
+## For&nbsp;authors:
 If you are planning to submit a paper to our journal, please read the [guidelines](https://periodicos.ufsm.br/cienciaenatura/about/submissions) and download the essential files by clicking [here](www.pudim.com.br).
 
 ### Requirements:
@@ -44,7 +43,7 @@ Consider running the following command to remove unnecessary files before upload
 $ latexmk -c
 ```
 
-## For developers, maintainers and contributors:
+## Contribution:
 
 We appreciate all types of contributions! If you want to improve the documentation or fix bugs, feel free to open a pull request on the develop branch. You can also check our contribution page for more information.
 
