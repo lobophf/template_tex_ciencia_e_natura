@@ -4,7 +4,6 @@
     <img alt="Issues" src="https://img.shields.io/github/issues/lobophf/conway-game-of-life.svg">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/centraldeperiodicos/template_tex_ciencia_e_natura">
     <img alt="License" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0%20Deed-brightgreen"><br>
-    <br> 
     <a href="#about">About</a>&nbsp;&nbsp;|&nbsp;
     <a href="#requirements">Requirements</a>&nbsp;&nbsp;|&nbsp;
     <a href="#quick-start-guide">Quick Start Guide</a>&nbsp;&nbsp;|&nbsp;
