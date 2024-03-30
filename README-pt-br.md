@@ -8,10 +8,9 @@
     <a href="README-pt-br.md">:brazil: Português</a>&nbsp;&nbsp;&nbsp;
     <br> 
     <a href="#sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;
-    <a href="#requerementos">Requerimentos</a>&nbsp;&nbsp;|&nbsp;
-    <a href="#guia de início rapido">Guia de início rápido</a>&nbsp;&nbsp;|&nbsp;
-    <a href="#submissão">Submissão</a>&nbsp;&nbsp;|&nbsp;
-    <a href="#licença">Licença</a>
+    <a href="#paraautores">Para autores</a>&nbsp;&nbsp;|&nbsp;
+    <a href="#contribuição">Contribuição</a>&nbsp;&nbsp;|&nbsp;
+    <a href="#license">License</a>	
     <h2 align="center">Ciência e Natura - Repositório LaTeX</h2>
     <h4 align="center">Universidade Federal de Santa Maria, Campus Sede, Editora Central de Periódicos da UFSM</h4>
 </p>
@@ -19,7 +18,7 @@
 ## Sobre:
 Este repositório contém os arquivos LaTeX essenciais necessários para o processo de submissão ao [periódico da Ciência e Natura](https://periodicos.ufsm.br/cienciaenatura/).
 
-## Para autores:
+## Para&nbsp;autores:
 Se você planeja enviar um artigo para nossa revista, por favor, leia as diretrizes e baixe os arquivos essenciais clicando [aqui](adasda).
 
 ### Requisitos:
@@ -40,6 +39,9 @@ Considere executar o seguinte comando para remover arquivos desnecessários ante
 ```
 $ latexmk -c
 ```
+## Contribuição
+
+
 ## License:
 Este projeto está licenciado sob a [Licença Internacional Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), conforme encontrado no arquivo [LICENSE](./LICENSE).
 
