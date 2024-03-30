@@ -39,7 +39,7 @@ Considere executar o seguinte comando para remover arquivos desnecessários ante
 ```
 $ latexmk -c
 ```
-## Contribuição
+## Contribuição:
 Nós apreciamos todos os tipos de contribuições! Se você quiser melhorar a documentação ou corrigir bugs, sinta-se à vontade para abrir um pull request no branch de desenvolvimento. Você também pode consultar nossa [página de contribuições](DEVELOPMENT.md) para obter mais informações.
 
 Se você planeja contribuir adicionando novos recursos ou alterando o template, por favor, abra uma issue e discuta conosco antes. Enviar pull requests deste tipo sem discussão prévia pode gerar rejeição se decidirmos levar o projeto em uma direção diferente da qual você pode estar ciente.
